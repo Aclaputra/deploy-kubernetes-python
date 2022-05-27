@@ -1,5 +1,5 @@
 ## Prepare the Quiz Application
-### Clone source code in Cloud Shell
+### Clone source code in your Cloud Shell
 Click Open Terminal and clone the repository for the lab.
 ```bash
 git clone https://github.com/GoogleCloudPlatform/training-data-analyst
